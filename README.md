@@ -11,6 +11,10 @@ The goal of this test is for you to demonstrate your experience, abilities and p
 
 Use whatever third-party modules you feel are appropriate, but be prepared to justify your choices. No need to create any type of backend database, you can house all the data in files or state on the front end.
 
+`easy-peasy` (for maintaining state) and `react-native-paper` (for easy components & icons) have been preloaded. Use them if you wish.
+
+Two placeholder functions (`listComments` and `addComment`) have been included.
+
 Your app should look good & perform smoothly.
 
 ## Submission
